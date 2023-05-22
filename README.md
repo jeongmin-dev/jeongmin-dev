@@ -4,10 +4,10 @@
 
 <div align="center">
   <a href="https://github.com/jeongmin-dev">
-    <img align="center" style="height:180px" src="https://jeongmin-dev.vercel.app/api?username=jeongmin-dev&show_icons=true&count_private=true&theme=github_dark" />
+    <img align="center" style="height:180px" src="https://jeongmin-ni1puvhqr-jeongmin-dev.vercel.app/api?username=jeongmin-dev&show_icons=true&count_private=true&theme=github_dark" />
   </a>
   <a href="https://github.com/jeongmin-dev">
-    <img align="center" style="height:180px" src="https://jeongmin-dev.vercel.app/api/top-langs/?username=imysh578&layout=compact&theme=github_dark&hide_border=true" />
+    <img align="center" style="height:180px" src="https://jeongmin-ni1puvhqr-jeongmin-dev.vercel.app/api/top-langs/?username=imysh578&layout=compact&theme=github_dark&hide_border=true" />
   </a>
 </div>
 
